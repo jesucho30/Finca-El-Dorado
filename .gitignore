@@ -1,0 +1,16 @@
+# Caché de Firebase (local)
+.firebase/
+
+# Carpetas temporales de carga de datos
+_carga*/
+
+# Archivos temporales (descargas/pruebas con prefijo _)
+_*.json
+
+# Dependencias
+node_modules/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+*.log

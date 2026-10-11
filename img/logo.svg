@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 168" fill="none" stroke="currentColor" role="img" aria-label="El Dorado">
+  <!-- sol -->
+  <circle cx="178" cy="42" r="14" fill="currentColor" stroke="none"/>
+  <!-- casa -->
+  <path d="M88 96 V62 L110 40 L132 62 V96" stroke-width="5" stroke-linejoin="round" stroke-linecap="round"/>
+  <!-- puerta -->
+  <path d="M104 96 V78 H116 V96" stroke-width="4" stroke-linejoin="round"/>
+  <!-- colinas -->
+  <path d="M16 100 C 52 82, 84 82, 110 96 C 140 112, 186 108, 224 88" stroke-width="5" stroke-linecap="round"/>
+  <path d="M16 118 C 56 102, 92 106, 120 116 C 156 128, 192 122, 224 104" stroke-width="5" stroke-linecap="round"/>
+  <!-- texto -->
+  <text x="120" y="150" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="25" letter-spacing="5" fill="currentColor" stroke="none" font-weight="600">EL DORADO</text>
+</svg>
